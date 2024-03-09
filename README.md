@@ -1,0 +1,2 @@
+# Kernel Injector
+A simple paste of [Face Injector v2](https://github.com/KANKOSHEV/face-injector-v2), replacing his driver with one made following [null's tutorial](https://www.youtube.com/watch?v=KNGr4m99PTU&list=PLdm1osymZj-fYsZM4MZ4n9Wz0QdAASHrD).
